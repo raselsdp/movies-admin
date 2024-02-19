@@ -64,11 +64,6 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/user.php">
-                            <i class="bi bi-people"></i> Users
-                        </a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="/logout" onclick="return confirm('Are you sure you want to logout ?')">
                             <i class="bi bi-box-arrow-left"></i> Logout
                             
